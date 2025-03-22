@@ -1,0 +1,14 @@
+/menu-staff
+│── RageUI/              ← 📁 Librairie RageUI
+│   ├── UI.lua
+│   ├── elements.lua
+│   ├── items.lua
+│   ├── panels.lua
+│   ├── windows.lua
+│── client/
+│   ├── menu.lua         ← 📄 Fichier principal du menu staff
+│── server/
+│   ├── server.lua       ← 📄 Gestion des commandes staff
+│── config/
+│   ├── config.lua       ← 📄 Configuration du menu staff
+│── fxmanifest.lua
